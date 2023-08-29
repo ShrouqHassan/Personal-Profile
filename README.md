@@ -22,7 +22,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/shrouk-hassan" target="_blank"><img src="https://img.shields.io/badge/-Shrouk%20Hassan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/shrouk-hassan/" target="_blank"><img src="https://img.shields.io/badge/-Shrouk%20Hassan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100005701426937" target="_blank"><img src="https://img.shields.io/badge/-Shrouk%20Hassan-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:shroukHassanmustafa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Shrouk%20Hassan-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 <a href="https://wa.me/201010667859" target="_blank"><img src="https://img.shields.io/badge/-Shrouk%20Hassan-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
