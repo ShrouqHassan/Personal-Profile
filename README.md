@@ -39,10 +39,10 @@
 ![MachineLearning](https://img.shields.io/badge/-MachineLearning%20-05122A?style=flat&logo=MachineLearning)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-<!--
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShrouqHassan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
--->
+
 
 
 <a href="https://komarev.com/ghpvc/?username=ShrouqHassan&style=for-the-badge">
